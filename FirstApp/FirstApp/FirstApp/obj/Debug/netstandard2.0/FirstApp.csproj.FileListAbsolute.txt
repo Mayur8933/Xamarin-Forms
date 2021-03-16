@@ -1,0 +1,28 @@
+C:\Users\kisha\Desktop\Xamarin-FirstApp\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.deps.json
+C:\Users\kisha\Desktop\Xamarin-FirstApp\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.dll
+C:\Users\kisha\Desktop\Xamarin-FirstApp\FirstApp\FirstApp\bin\Debug\netstandard2.0\ref\FirstApp.dll
+C:\Users\kisha\Desktop\Xamarin-FirstApp\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.pdb
+C:\Users\kisha\Desktop\Xamarin-FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.csprojAssemblyReference.cache
+C:\Users\kisha\Desktop\Xamarin-FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kisha\Desktop\Xamarin-FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kisha\Desktop\Xamarin-FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.AssemblyInfoInputs.cache
+C:\Users\kisha\Desktop\Xamarin-FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.AssemblyInfo.cs
+C:\Users\kisha\Desktop\Xamarin-FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\kisha\Desktop\Xamarin-FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kisha\Desktop\Xamarin-FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.dll
+C:\Users\kisha\Desktop\Xamarin-FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\ref\FirstApp.dll
+C:\Users\kisha\Desktop\Xamarin-FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.pdb
+C:\Users\kisha\Desktop\Xamarin Forms\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.csprojAssemblyReference.cache
+C:\Users\kisha\Desktop\Xamarin Forms\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.dll
+C:\Users\kisha\Desktop\Xamarin Forms\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\ref\FirstApp.dll
+C:\Users\kisha\Desktop\Xamarin Forms\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.pdb
+C:\Users\kisha\Desktop\Xamarin Forms\FirstApp\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.deps.json
+C:\Users\kisha\Desktop\Xamarin Forms\FirstApp\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.dll
+C:\Users\kisha\Desktop\Xamarin Forms\FirstApp\FirstApp\FirstApp\bin\Debug\netstandard2.0\ref\FirstApp.dll
+C:\Users\kisha\Desktop\Xamarin Forms\FirstApp\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.pdb
+C:\Users\kisha\Desktop\Xamarin Forms\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kisha\Desktop\Xamarin Forms\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kisha\Desktop\Xamarin Forms\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.AssemblyInfoInputs.cache
+C:\Users\kisha\Desktop\Xamarin Forms\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.AssemblyInfo.cs
+C:\Users\kisha\Desktop\Xamarin Forms\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\kisha\Desktop\Xamarin Forms\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\XamlC.stamp

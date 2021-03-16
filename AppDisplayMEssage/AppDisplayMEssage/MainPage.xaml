@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="Aqua"
+             x:Class="AppDisplayMEssage.MainPage">
+
+    <StackLayout Padding="25" VerticalOptions="CenterAndExpand">
+        <Label Text="User Login"
+               HorizontalTextAlignment="Center"
+               TextColor="Black"
+               FontSize="Medium"/>
+        
+        <Entry Placeholder="UID"
+               x:Name="UIDEntry"
+               TextColor="Black"
+               Keyboard="Email"/>
+        
+        <Entry Placeholder="PASSWORD"
+               x:Name="PASSEntry"
+               TextColor="Black"
+               IsPassword="True"
+               />
+        
+        <Button Text="Submit" 
+                x:Name="SubmitButton"
+                BackgroundColor="Black"
+                TextColor="White"
+                Clicked="SubmitButton_clicked"
+                CornerRadius="8"/>
+    </StackLayout>
+   
+</ContentPage>
