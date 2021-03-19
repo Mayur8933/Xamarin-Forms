@@ -1,0 +1,15 @@
+C:\Users\kisha\Desktop\Xamarin Forms\ColorPicker\ColorPicker\obj\Debug\netstandard2.0\ColorPicker.csprojAssemblyReference.cache
+C:\Users\kisha\Desktop\Xamarin Forms\ColorPicker\ColorPicker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kisha\Desktop\Xamarin Forms\ColorPicker\ColorPicker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kisha\Desktop\Xamarin Forms\ColorPicker\ColorPicker\obj\Debug\netstandard2.0\ColorPicker.AssemblyInfoInputs.cache
+C:\Users\kisha\Desktop\Xamarin Forms\ColorPicker\ColorPicker\obj\Debug\netstandard2.0\ColorPicker.AssemblyInfo.cs
+C:\Users\kisha\Desktop\Xamarin Forms\ColorPicker\ColorPicker\obj\Debug\netstandard2.0\ColorPicker.csproj.CoreCompileInputs.cache
+C:\Users\kisha\Desktop\Xamarin Forms\ColorPicker\ColorPicker\bin\Debug\netstandard2.0\ColorPicker.deps.json
+C:\Users\kisha\Desktop\Xamarin Forms\ColorPicker\ColorPicker\bin\Debug\netstandard2.0\ColorPicker.dll
+C:\Users\kisha\Desktop\Xamarin Forms\ColorPicker\ColorPicker\bin\Debug\netstandard2.0\ref\ColorPicker.dll
+C:\Users\kisha\Desktop\Xamarin Forms\ColorPicker\ColorPicker\bin\Debug\netstandard2.0\ColorPicker.pdb
+C:\Users\kisha\Desktop\Xamarin Forms\ColorPicker\ColorPicker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kisha\Desktop\Xamarin Forms\ColorPicker\ColorPicker\obj\Debug\netstandard2.0\ColorPicker.dll
+C:\Users\kisha\Desktop\Xamarin Forms\ColorPicker\ColorPicker\obj\Debug\netstandard2.0\ref\ColorPicker.dll
+C:\Users\kisha\Desktop\Xamarin Forms\ColorPicker\ColorPicker\obj\Debug\netstandard2.0\ColorPicker.pdb
+C:\Users\kisha\Desktop\Xamarin Forms\ColorPicker\ColorPicker\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="White"
+             NavigationPage.HasNavigationBar="False"
+             x:Class="ColorPicker.LoginPage">
+    <ContentPage.Content>
+        <StackLayout Padding="25" VerticalOptions="Center">
+            <Label Text="Enter Your Kids Name"
+                   TextColor="Black"
+                   FontSize="Large"
+                   HorizontalOptions="Center"/>
+
+            <Entry Placeholder="Enter Name" x:Name="MyEntry" TextColor="Black" BackgroundColor="SkyBlue"/>
+
+            <Button x:Name="myButton"
+                    Text="Submit"
+                    TextColor="white"
+                    BackgroundColor="Black"
+                    Clicked="myButton_Clicked"
+                    HeightRequest="40"/>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

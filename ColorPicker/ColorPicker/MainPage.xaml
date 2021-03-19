@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Visual="Material"
+             BackgroundColor="White"
+             x:Class="ColorPicker.MainPage">
+
+
+        <Grid Padding="25" ColumnSpacing="5" RowSpacing="5">
+            <Button x:Name="OrangeButton"
+                    Background="orange"
+                    Grid.Row="0"
+                    Grid.Column="0"
+                    Clicked="OrangeButton_Clicked"/>
+
+            <Button x:Name="RedButton"
+                    Background="red"
+                    Grid.Row="0"
+                    Grid.Column="1"
+                    Clicked="RedButton_Clicked"/>
+
+            <Button x:Name="GreenButton"
+                    Background="green"
+                    Grid.Row="1"
+                    Grid.Column="0"
+                    Clicked="GreenButton_Clicked"/>
+            
+            <Button x:Name="BlackButton"
+                    Background="black"
+                    Grid.Row="1"
+                    Grid.Column="1"
+                    Clicked="BlackButton_Clicked"/>
+            
+            <Button x:Name="PinkButton"
+                    Background="pink"
+                    Grid.Row="2"
+                    Grid.Column="0"
+                    Clicked="PinkButton_Clicked"/>
+            
+            <Button x:Name="YellowButton"
+                    Background="yellow"
+                    Grid.Row="2"
+                    Grid.Column="1"
+                    Clicked="YellowButton_Clicked"/>
+            
+            <Button x:Name="BlueButton"
+                    Background="blue"
+                    Grid.Row="3"
+                    Grid.Column="0"
+                    Clicked="BlueButton_Clicked"/>
+            
+            <Button x:Name="ChocolateButton"
+                    Background="chocolate"
+                    Grid.Row="3"
+                    Grid.Column="1"
+                    Clicked="ChocolateButton_Clicked"/>
+        </Grid>
+
+
+
+</ContentPage>
